@@ -1,0 +1,5 @@
+# Elm package generated files.
+elm-stuff/
+
+# Node ignores
+node_modules/
